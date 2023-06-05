@@ -7,7 +7,7 @@ menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.</
 # Membuat Tabel
 ### Studi Kasus User Login
 
-![Tabel User Login]![studi_kasus](https://github.com/SatrioPratama75/PW02-11/assets/92651803/ec847e22-91a6-4791-95a1-3f1effd47ef5)
+![studi_kasus](https://github.com/SatrioPratama75/PW02-11/assets/92651803/ec847e22-91a6-4791-95a1-3f1effd47ef5)
 
 ### Membuat Tabel User
 
