@@ -8,14 +8,6 @@ menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.</
 ### Studi Kasus User Login
 
 ![Tabel User Login]![studi_kasus](https://github.com/SatrioPratama75/PW02-11/assets/92651803/ec847e22-91a6-4791-95a1-3f1effd47ef5)
-![tambah_artikel](https://github.com/SatrioPratama75/PW02-11/assets/92651803/d8488629-3b7a-481f-819e-548d6d432a28)
-![tampilan_artikel](https://github.com/SatrioPratama75/PW02-11/assets/92651803/8bfad0b0-2a32-4f5a-b4e1-7fad85a79050)
-![tampilan_web](https://github.com/SatrioPratama75/PW02-11/assets/92651803/6b93d55c-55d2-474e-a86f-467a800d71c5)
-![admin_index](https://github.com/SatrioPratama75/PW02-11/assets/92651803/c8a15da3-03d5-46ae-b820-30f8002517c4)
-![detail_artikel](https://github.com/SatrioPratama75/PW02-11/assets/92651803/1a7c9343-e559-4701-8a2f-bc08f770b891)
-![edit_artikel](https://github.com/SatrioPratama75/PW02-11/assets/92651803/a8ec54e9-5af1-48ac-a299-1fe868e41fb6)
-![konfigurasi_database](https://github.com/SatrioPratama75/PW02-11/assets/92651803/b8ed0989-deb7-46b5-8333-eb9dda443760)
-
 
 ### Membuat Tabel User
 
